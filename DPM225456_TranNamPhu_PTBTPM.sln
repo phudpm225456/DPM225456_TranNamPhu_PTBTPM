@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225456_TranNamPhu_Real10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225456_TranNamPhu_Pattern10_Facade Design Pattern", "DPM225456_TranNamPhu_Pattern10_Facade Design Pattern\DPM225456_TranNamPhu_Pattern10_Facade Design Pattern.csproj", "{6D2AB271-89CD-43B5-89EC-1F2519106B30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225456_TranNamPhu_Pattern11_Flyweight", "DPM225456_TranNamPhu_Pattern11_Flyweight\DPM225456_TranNamPhu_Pattern11_Flyweight.csproj", "{8EBBEB58-C85F-4CB6-A594-F29D758E9DD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{6D2AB271-89CD-43B5-89EC-1F2519106B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D2AB271-89CD-43B5-89EC-1F2519106B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D2AB271-89CD-43B5-89EC-1F2519106B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBBEB58-C85F-4CB6-A594-F29D758E9DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBBEB58-C85F-4CB6-A594-F29D758E9DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBBEB58-C85F-4CB6-A594-F29D758E9DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBBEB58-C85F-4CB6-A594-F29D758E9DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
